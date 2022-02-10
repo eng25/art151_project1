@@ -17,7 +17,7 @@ To achieve this, I used specific color choices, specific use of movement, as wel
 
 Organic Randomness
 I wanted movement from the pixies that appeared organic.
-To achieve this, I employed the use of Perlin Noise and Vectors which I believe gives each of the pixes a flutter effect.
+To achieve this, I employed the use of Perlin Noise and Vectors which I believe gives each of the pixies a flutter effect.
 
 Directions
 Move mouse over pixies to slow them down
