@@ -21,6 +21,7 @@ function setup() {
     p_list.push(new Particle(width/2, height/2, i));
   }
   off = 0;
+  noiseSeed(random(0, 100));
   window.alert("Pixies is about observing and interacting with pixes as they float around.\nMove your cursor over them to slow them down\nClick outside the circle to add more pixies")
 }
 
